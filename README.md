@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Aarifa 👋
+A cybersecurity professional passionate about solving complex problems, with a focus on vulnerability management and proactive threat detection.
 
-<!--
-**Aarifa18/Aarifa18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+#### What I do
+- 🔐 Cybersecurity frameworks, incident response, and threat detection  
+- 🛡️ Vulnerability management  
+- 🛠️ Tooling: Burp Suite, Prisma Cloud, Power BI, AWS QuickSight  
+- 📊 Turning complex security data into clear, actionable insights
+---
+#### 📜 Certifications
+- CompTIA Security+
+- Microsoft AZ-900
+- Checkmarx Certified Partner Engineer
+---
+##### Lets Connect
+Reach me at [LinkedIn](https://www.linkedin.com/in/aarifa-islam-053032197/)
